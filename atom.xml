@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[تعلم اللإسبرانتو]]></title>
+  <link href="http://esperantoarabia.org/atom.xml" rel="self"/>
+  <link href="http://esperantoarabia.org/"/>
+  <updated>2013-06-02T21:14:49+01:00</updated>
+  <id>http://esperantoarabia.org/</id>
+  <author>
+    <name><![CDATA[Ahmed Mansour]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
