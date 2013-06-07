@@ -16,5 +16,3 @@ https://www.facebook.com/groups/esperanto.grupo
 * مجموعة بريدية على ياهو:
 http://fr.groups.yahoo.com/group/araba-mondo
 
-* e-mail:
-kontakto@esperantoarabia.org
