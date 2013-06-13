@@ -1,5 +1,7 @@
 #!/bin/bash
 rake generate
 git add .
-git commit -m "another update"
+git commit #-m "another update"
 git push heroku master
+#rake new_post["title"]
+#rake new_page[title]
