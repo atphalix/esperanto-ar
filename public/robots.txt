@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://atphalix.github.io/esperanto-ar/sitemap.xml 
+Sitemap: http://www.esperantoarabia.org/sitemap.xml 

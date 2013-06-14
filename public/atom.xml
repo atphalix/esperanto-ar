@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[تعلم اللإسبرانتو]]></title>
-  <link href="http://atphalix.github.io/esperanto-ar/atom.xml" rel="self"/>
-  <link href="http://atphalix.github.io/esperanto-ar/"/>
-  <updated>2013-06-14T19:33:27+01:00</updated>
-  <id>http://atphalix.github.io/esperanto-ar/</id>
+  <link href="http://www.esperantoarabia.org/atom.xml" rel="self"/>
+  <link href="http://www.esperantoarabia.org/"/>
+  <updated>2013-06-14T20:05:32+01:00</updated>
+  <id>http://www.esperantoarabia.org/</id>
   <author>
     <name><![CDATA[Ahmed Mansour]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Esperanto ĉe la 13-a Monda Socia Forumo en Tunizo, Tunizio]]></title>
-    <link href="http://atphalix.github.io/esperanto-ar/blog/2013/06/08/cinio-artiklo/"/>
+    <link href="http://www.esperantoarabia.org/blog/2013/06/08/cinio-artiklo/"/>
     <updated>2013-06-08T00:00:00+01:00</updated>
-    <id>http://atphalix.github.io/esperanto-ar/blog/2013/06/08/cinio-artiklo</id>
+    <id>http://www.esperantoarabia.org/blog/2013/06/08/cinio-artiklo</id>
     <content type="html"><![CDATA[<p>Artikolo de Ĉina Interreta Informa Centro</p>
 
 <p><a href="http://esperanto.china.org.cn/2013-04/08/content_28477531.htm">http://esperanto.china.org.cn/2013-04/08/content_28477531.htm</a></p>
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[Esperanto en la Monda Socia Forumo]]></title>
-    <link href="http://atphalix.github.io/esperanto-ar/blog/2013/06/03/tunizio/"/>
+    <link href="http://www.esperantoarabia.org/blog/2013/06/03/tunizio/"/>
     <updated>2013-06-03T12:04:00+01:00</updated>
-    <id>http://atphalix.github.io/esperanto-ar/blog/2013/06/03/tunizio</id>
+    <id>http://www.esperantoarabia.org/blog/2013/06/03/tunizio</id>
     <content type="html"><![CDATA[<p><img src="images/talk.jpg" alt="" /></p>
 
 <p>De la 26a ĝis la 30a de marto okazis la Monda Socia Forumo en Tuniso, Tunizio, kiu okazas la unuan fojon en araba lando kaj 2 jarojn post la tunizia revolucio. Ĉeestis de la 26a ĝis la 30a de marto 2013 laŭdire 60.000 partoprenantoj kaj miloj da organizaĵoj, budoj, debatoj kaj prelegoj, sur la giganta universitata tereno de Tuniso.</p>
