@@ -16,4 +16,4 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.4.2'
-ruby '1.9.2'
+ruby '1.9.3'
