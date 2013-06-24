@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![](images/talk.jpg)
+![]({{root_url}}/images/talk.jpg)
 
 De la 26a ĝis la 30a de marto okazis la Monda Socia Forumo en Tuniso, Tunizio, kiu okazas la unuan fojon en araba lando kaj 2 jarojn post la tunizia revolucio. Ĉeestis de la 26a ĝis la 30a de marto 2013 laŭdire 60.000 partoprenantoj kaj miloj da organizaĵoj, budoj, debatoj kaj prelegoj, sur la giganta universitata tereno de Tuniso.
  
@@ -21,3 +21,18 @@ Fabrice Morandeau kantis en Esperanto kaj en la franca.  Post la kantado ni resp
 Mi mem produktis 25 lumdiskojn kun dokumentoj kaj kun la "Kurso de Esperanto", kiu estas tradukita al la araba kaj al 12 aliaj lingvoj kaj disdonis ilin al personoj, kiuj esprimis la deziron lerni la lingvon.
 
 Mi ŝatus danki al Renato Corsetti, Martin Schaeffer, Dorota Parzyszek, kiuj kunhelpis organizi ĉi tiun eventon, kaj Fabrice Morandeau pro la bela Esperanto-muziko. Partopreni en tiu evento ne estus eble sen la financa subteno de UEA kaj de la fondaĵo "Esperanto Internacia".
+
+<div class="pikachoose">
+
+        <ul id="pikame">
+                <li><img src="{{root_url}}/images/galleries/1.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/2.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/3.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/4.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/5.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/6.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/7.jpg"/></a><span></span></li>
+                <li><img src="{{root_url}}/images/galleries/8.jpg"/></a><span></span></li>
+        </ul>
+       
+</div>
