@@ -5,6 +5,7 @@ date: 2013-06-15 16:21
 comments: true
 categories: 
 ---
+![]({{ root_url }}/images/kongreso.jpg)
 
 La 98a **Universala Kongreso de Esperanto** okazos ĉi jare en Rejkjaviko, Islando inter la 20a kaj 27a de julio. Kiel kongresejo la partoprenantoj uzos la koncertejon “Harpa”, bela, tute nova, moderna kaj komforta konstruaĵo.
 La ĝenerala temo estas: “Insuloj sen izoliĝo: por justa komunikado inter lingvokomunumoj”, la programo estos kiel ofte ege interesa, en la dua bulteno vi trovos informojn pri loĝado, ekskursoj, bankedo, programeroj, ktp. http://uea.org/pdf/db_2013_rejkjaviko.pdf
