@@ -1,8 +1,8 @@
 body {font-family: helvetica, sans-serif;}
 a{color:white;}
 
-.pikachoose {width: 520px; margin: 0 auto;}
-.pika-stage {position: relative; width: 500px; height:250px; -moz-box-shadow: 10px 10px 5px #888;-webkit-box-shadow: 10px 10px 5px #888;
+.pikachoose {width: 800px; margin: 0 auto;}
+.pika-stage {position: relative; width: 800px; height:540px; -moz-box-shadow: 10px 10px 5px #888;-webkit-box-shadow: 10px 10px 5px #888;
 	box-shadow: 10px 10px 5px #888; border:2px solid black;}
 
 	.pika-stage .pika-aniwrap, .pika-stage .main-image {position: absolute; top: 0; left: 0;}
